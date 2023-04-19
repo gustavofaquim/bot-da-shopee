@@ -1,1 +1,5 @@
-# bot-da-shopee
+bot-da-shopee
+
+npm init
+
+npm start
